@@ -914,6 +914,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - :file_folder: [Open AI GPT-3 documentation](https://beta.openai.com/docs/introduction/overview)
+- :books: [Fundamentals of Machine Learning for Data Science ] (https://github.com/XiaoqiMa/Books/blob/master/Fundamentals%20of%20Machine%20Learning%20for%20Predictive%20Data%20Analytics%20-%202015.pdf)
 
 ---
 
