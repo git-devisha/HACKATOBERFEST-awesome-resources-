@@ -518,6 +518,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Fundamental CP algorithms
+- :video_camera: [Number theory for DSA and CP](https://www.youtube.com/watch?v=cfnQf535c5U)
+- :video_camera:[CP roadmap](https://youtu.be/n-Xkbqcfi9w?si=axnCRpnFXyWvyZMf)
 
 ### Algebra
 
